@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  prasanna:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-31T11:48:04.403268647Z"
+    description: A Helm chart for Kubernetes
+    digest: b6ac1c0b77ca4b7c0393f5e0fbb4623024fbbfbc190283ed9ce5d418807f9bc4
+    name: prasanna
+    type: application
+    urls:
+    - prasanna-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-31T11:48:04.402087732Z"
